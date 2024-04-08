@@ -1,0 +1,23 @@
+@import 'vars';
+@import 'fonts';
+@import 'reset';
+@import 'global';
+@import 'libs';
+
+
+
+
+
+.header {
+  &__title {
+  font-family: 'SouthernAire_Personal_Use_Only';
+    color: aquamarine;
+    font-size: 200px;
+    margin-top: 200px;
+  }
+  
+}
+
+
+
+@import 'media';

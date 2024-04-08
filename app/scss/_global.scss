@@ -1,0 +1,24 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  color: #191919;  
+  font-size: 16px;
+  line-height: 24px;
+  display: flex;
+  flex-direction: column;
+}
+
+ .main {
+   flex-grow: 1;
+   margin-bottom: 75px;
+ }
+
+.container {
+  max-width: 1800px;
+  padding: 0 15px;
+  margin: 0 auto;  
+}
+
